@@ -1,0 +1,47 @@
+id: PB7F9F2AE
+initial_creation_type: input
+source_metadata:
+  title: Tibet Series
+  language: en
+  description: 'Texts related to Tibet, the land of snows (bod gangs can ljongs):'
+  volume:
+    74c97ad3b0c74c0ca8a95343e31bbfee:
+      title: Aspiration for the Country’s Welfare
+      parent: Aspiration Prayers
+    fe0eb297f2b140bd9f134e2880864eb4:
+      title: The Prayer of the Words of Truth
+      parent: Aspiration Prayers
+    11bc9444540f430b84014bbe49283737:
+      title: 'The Resounding Drum of Truth: A Prayer and Aspiration'
+      parent: Aspiration Prayers
+    eb13e0c570fa42729c77a2f9ae6bd158:
+      title: Prayer for Peace and Stability in Tibet
+      parent: Aspiration Prayers
+    da8244580dce404abe8524e5ab2a34b0:
+      title: Prayer for Dispelling Famine
+      parent: Aspiration Prayers
+    dd8b90466038477a85c2690033c5c870:
+      title: Guide to Sengchen Namdrak
+      parent: Guides
+    684a84aa48ef4dad833271712ff61ace:
+      title: 'The Kalaviṅka’s Call: A Guide to Glorious Samye Chimphu'
+      parent: Guides
+    ebcb607ebb344a20be8696303b8e6a92:
+      title: Offering Clouds to Delight the Victorious Ones, Combining A Praise of
+        Redreng with a Prayer of Aspiration
+      parent: Praise
+    27399fc00e994394bede2d6c736a7ac2:
+      title: Praise and Prayer to Kharchu, Great Sacred Place of Lhodrak
+      parent: Praise
+    d27f14cfa16c43ed8af1029403562b95:
+      title: A Prayer to Jowo Rinpoche Combined with Aspirations and a Means to Receive
+        the Four Empowerments
+      parent: Prayers
+    4096f06e733247f6945e7ea18ad4ede5:
+      title: Prayer to the Lineage of Lumorab
+      parent: Prayers
+    a789954f199043aeaa62782793fbc97a:
+      title: Jangphen Namkha Dzong
+      parent: Songs
+created_at: '2022-03-01T06:22:38.575544'
+last_modified_at: '2022-03-01T06:22:38.575552'
